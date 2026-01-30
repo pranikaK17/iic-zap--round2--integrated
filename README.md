@@ -6,6 +6,5 @@ AI-Based Farmer Query Support and Advisory System
 
 ## FarmAssist
 
-## Tech stack
-This project is built using :- 
+
 
